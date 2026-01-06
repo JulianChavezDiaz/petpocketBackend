@@ -8,7 +8,7 @@ const descifrarSeguro = (dato) => {
     try {
         return dato ? descifrarDatos(dato) : '';
     } catch (error) {
-        console.error('Error al descifrar:', error);
+        console.error('Error al descifrarsssss:', error);
         return '';
     }
 };
